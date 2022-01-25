@@ -1,0 +1,3 @@
+Hi there!
+
+I'm Chris and this time I'll go trhought the whole Platzi Git-Github course. :)
